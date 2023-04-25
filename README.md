@@ -1,3 +1,3 @@
 # Test1
-Exaple for a course
+Example for a course
 Repository 0
